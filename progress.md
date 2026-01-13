@@ -1,6 +1,6 @@
 # 📅 Progress Tracker — A Year of Building
 
-- [ ] Week 01 —
+- [x] Week 01 —
 - [ ] Week 02 —
 - [ ] Week 03 —
 - [ ] Week 04 —
