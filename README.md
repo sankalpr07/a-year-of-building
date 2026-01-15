@@ -1,31 +1,25 @@
-# 52 Weeks of AI-assisted Coding 
+A Year of Building
 
-**Goal:**  
-Build 52 projects in 52 weeks while transitioning from AI-assisted coding  
-to complete independent software development.
+This repository tracks 52 weeks of hands-on coding.
+One small project each week, built to learn, break, and understand code better.
 
----
+⸻
 
-##  Rules
-- Early weeks: AI allowed as mentor, not code generator
-- Mid phase: AI only for debugging & explanations
-- Final phase: No AI usage
-- Every project must include a reflection
+Why
+	•	Learn by building
+	•	Develop problem-solving and debugging habits
+	•	Stay consistent over time
 
----
+⸻
 
-##  Why?
-To learn by building, failing, rebuilding — and mastering fundamentals.
+How It Works
 
----
+Each week includes:
+	•	Source code
+	•	A short reflection on what I learned
 
-##  Structure
-Each week contains:
-- Problem statement
-- Source code
-- Reflection & learnings
+⸻
 
----
+Progress
 
-## Progress
-See `progress.md`
+Progress is tracked in progress.md.
